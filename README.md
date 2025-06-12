@@ -1,7 +1,7 @@
 # Assignment
 
 This project consists of a full-stack application with a Node.js/Express backend and a Next.js frontend.
-
+Making some changes to check the git 
 ## Project Structure
 
 ```
